@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\bin\Debug\codigo morse.exe.config
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\bin\Debug\codigo morse.exe
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\bin\Debug\codigo morse.pdb
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo morse.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo_morse.Form1.resources
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo_morse.Properties.Resources.resources
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo morse.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo morse.exe
+C:\Users\Dell\Documents\Salle\programacion\2 semestre\Programas\codigo morse\obj\Debug\codigo morse.pdb
